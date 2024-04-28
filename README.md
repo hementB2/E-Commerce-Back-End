@@ -36,7 +36,7 @@ Insomnia: A powerful HTTP and REST client for testing APIs.
 https://github.com/hementB2/E-Commerce-Back-End
 
 ## YouTube Walkthrough Videos
-For a detailed walkthrough of the project's functionality and setup process, refer to the provided YouTube videos.
+https://drive.google.com/file/d/1j6Fvhf-aJF2QmepPy7LL3RckpN5i2KmC/view
 
 ## Deployed Application Link
 https://github.com/hementB2/E-Commerce-Back-End
